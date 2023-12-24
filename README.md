@@ -1,6 +1,5 @@
 -  Hi, I’m @IV2004 (Ignacio.V)
 -  I’m interested in learning the basics of programming
--  I just started learning HTML
 -  How to reach me:
 -  Discord: Rayitwo#7678 or Gmail: Ignaciofroilanvallecontacto@gmail.com
 
