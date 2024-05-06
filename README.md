@@ -1,7 +1,7 @@
 -  Hi, I’m @IV2004 (Ignacio.V)
--  I’m interested in learning the basics of programming
+-  analyst programmer student in UNLP
 -  How to reach me:
--  Discord: Rayitwo#7678 or Gmail: Ignaciofroilanvallecontacto@gmail.com
+-  Gmail: ignaciocodes2004@gmail.com
 
 <!---
 IV2004/IV2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
