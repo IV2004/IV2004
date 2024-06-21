@@ -16,6 +16,6 @@
 
 <h2 align="center">Segundo año</h2>
 <div align="center">
-    <a href="https://github.com/IV2004/pruebaGit"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=IV2004&repo=pruebaGit&theme=midnight-purple&icon_color=F8D866&show_icons=false&border_color=474554"></a>
+    <a href="https://github.com/IV2004/pruebaGit"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=IV2004&repo=pruebaGit&theme=dark&icon_color=F8D866&show_icons=false&border_color=474554"></a>
 <br>
 </div>
